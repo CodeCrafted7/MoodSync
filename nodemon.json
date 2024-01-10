@@ -1,0 +1,6 @@
+{
+	"watch": [".py", "src/"],
+	"execMap": {
+		"py": "python"
+	}
+}
